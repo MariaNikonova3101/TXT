@@ -1,1 +1,7 @@
-
+ID: 235
+Severity": Minor
+Environment": Redmi Note 11 (Android 11, Chrome)
+Title: Search input field' does not work on all language exept EN
+Steps:  ["1. Navigate to capital.com, 2. Click [Navicom] button in right up corner, 3. Iinput texton chosen language, 4. Click  [lupa] button or arrow on screen keyboard"]	
+Expected Result: "Seen articles by our input in"Search field input
+Actual Result: "The page is twitching, its very annoy
