@@ -1,0 +1,4 @@
+Name: Maryia Nikonova
+Age: 35
+Number of pets: 0
+Future salary: 1000 USD
